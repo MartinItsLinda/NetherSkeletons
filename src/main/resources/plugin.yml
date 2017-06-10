@@ -1,0 +1,5 @@
+name: NetherSkeletons
+version: 1.0
+main: me.angrypostman.NetherSkeletons.NetherSkeletons
+description: "Prevent Skeleton spawners from being place in the Nether"
+author: "AngryPostman"
